@@ -10,7 +10,7 @@
 
 char container_stack[STACK_SIZE];
 
-void
+int
 container_function()
 {
     printf("Container - Inside the containerized process!\n");
